@@ -1,3 +1,5 @@
+# Introduction
+
 ### 1. What is HTML? 
 **HTML** (*Hypertext Markup Language*) is the <ins>standard language</ins> used to create and <ins>structure content</ins> on the web. It forms the foundation of most websites and defines the meaning and structure of the web content.
 ### 2. Setting Up Your Environment
