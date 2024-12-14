@@ -11,6 +11,7 @@ Here, I share everything I've learned about HTML, from the basics to more advanc
 | **Topic**    | **Markdown File**                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | Introduction | [Introduction](https://github.com/Anthony01M/my-knowledge/blob/master/html/Introduction.md) |
+| Basics       | [Basics](https://github.com/Anthony01M/my-knowledge/blob/master/html/Basics.md)             |
 
 ---
 
