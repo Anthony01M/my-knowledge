@@ -10,7 +10,7 @@
 
    Choosing the right **code editor** is an <ins>important step</ins> when starting **web development** or **programming**. Please <ins>search</ins> for all possible code editors and decide the one that fits your needs.
 
-   ⚠ *Please be aware that I will be using <a ref="https://code.visualstudio.com">Virtual Studio Code</a> (also known as: VSCode, vsc).*
+   ⚠ *Please be aware that I will be using [Virtual Studio Code](https://code.visualstudio.com) (also known as: VSCode, vsc).*
 ### 3. Your First HTML Page
 1. File Extension
 
