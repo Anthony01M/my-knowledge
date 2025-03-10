@@ -1,5 +1,4 @@
 # HTML Knowledge
-
 Welcome to the **HTML** section of my knowledge repository! 🌐
 
 Here, I share everything I've learned about HTML, from the basics to more advanced concepts. This section is designed to help anyone interested in building a strong foundation in web development.
@@ -8,10 +7,11 @@ Here, I share everything I've learned about HTML, from the basics to more advanc
 
 ## 📚 Table of Contents
 
-| **Topic**    | **Markdown File**                                                                           |
-| ------------ | ------------------------------------------------------------------------------------------- |
-| Introduction | [Introduction](https://github.com/Anthony01M/my-knowledge/blob/master/html/Introduction.md) |
-| Basics       | [Basics](https://github.com/Anthony01M/my-knowledge/blob/master/html/Basics.md)             |
+| **Topic**                    | **Markdown File**                                                                                                                   |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Introduction                 | [Introduction](https://github.com/Anthony01M/my-knowledge/blob/master/html/Introduction.md)                                         |
+| Basics                       | [Basics](https://github.com/Anthony01M/my-knowledge/blob/master/html/Basics.md)                                                     |
+| Text Formatting & Typography | [Text Formatting & Typography](https://github.com/Anthony01M/my-knowledge/blob/master/html/Text%20Formatting%20%26%20Typography.md) |
 
 ---
 
