@@ -39,6 +39,7 @@ If you find this repository helpful and would like to support my work, you can d
 - **Ethereum (ETH)**: \[**BEP20**\] `0x0eb9ecc8c763689cb24ea8281297b781a0df9e6c` 
 - **Litecoin (LTC)**: \[**BEP20**\] `0x0eb9ecc8c763689cb24ea8281297b781a0df9e6c`
 - **TetherUS (USDT)**: \[**TRC20**\] `TS9FrGwbSFHofs2WRnMmx84yC8BRsUUfrM`
+- **USD Coin (USDC)**: \[**BEP20**\] `0x0eb9ecc8c763689cb24ea8281297b781a0df9e6c`
 
 Your support means a lot—thank you! 🙌
 
