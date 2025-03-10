@@ -31,8 +31,8 @@ HTML is built using **tags** that define the purpose of the content.
   ~~~html
   <p>This is a paragraph element.</p>
   ~~~
-- `<p>` is the tag.
-- The entire line is an element.
+  1. `<p>` is the tag.
+  2. The entire line is an element.
 ### 3. Attributes
 Attributes provide additional information about HTML elements. They are written within the opening tag.
 
@@ -47,9 +47,9 @@ Example:
   ~~~html
   <p style="color: blue; font-size: 16px;">This paragraph has inline styles.</p>
   ~~~
-- `class`: Assigns a class name for styling or scripting.
-- `src`: Specifies the source of an image or media.
-- `href`: Sets the URL for a link.
+  1. `class`: Assigns a class name for styling or scripting.
+  2. `src`: Specifies the source of an image or media.
+  3. `href`: Sets the URL for a link.
 ### 4. Nesting
 Nesting means placing one element inside another to create a hierarchy.
 
@@ -61,8 +61,8 @@ Example:
 </div>
 ~~~
 **Rules for Nesting**:
-- Always close tags in the correct order.
-- Proper indentation improves readability.
+1. Always close tags in the correct order.
+2. Proper indentation improves readability.
 ### 5. Comments
 Comments are used to annotate the code without affecting the output. They are especially helpful for documentation.
 
